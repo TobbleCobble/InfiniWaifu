@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/infiniwaifu/static/css/main.f6ed6347.css",
+    "main.js": "/infiniwaifu/static/js/main.bcd67448.js",
+    "static/js/787.20f1af17.chunk.js": "/infiniwaifu/static/js/787.20f1af17.chunk.js",
+    "static/media/1638427112t-shirt-png.webp": "/infiniwaifu/static/media/1638427112t-shirt-png.f28a706a839b1cf92012.webp",
+    "index.html": "/infiniwaifu/index.html",
+    "main.f6ed6347.css.map": "/infiniwaifu/static/css/main.f6ed6347.css.map",
+    "main.bcd67448.js.map": "/infiniwaifu/static/js/main.bcd67448.js.map",
+    "787.20f1af17.chunk.js.map": "/infiniwaifu/static/js/787.20f1af17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ed6347.css",
+    "static/js/main.bcd67448.js"
+  ]
+}
